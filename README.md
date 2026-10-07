@@ -1,2 +1,2 @@
-# Fellowship_Pred_Model
+# Fellowship_Prediction_Model
 Fellowship Prediction Model
